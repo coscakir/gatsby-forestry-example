@@ -28,4 +28,5 @@ fields:
     display_utc: false
   default: now
 pages:
+- src/data/blog/gatsby-bros.app
 - src/data/blog/jamstack-bros.md
