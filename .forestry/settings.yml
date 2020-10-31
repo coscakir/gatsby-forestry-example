@@ -11,11 +11,11 @@ sections:
   label: Posts
   create: documents
   match: "**/*"
-  new_doc_ext: ''
+  new_doc_ext: app
   templates:
   - blog
-upload_dir: static/uploads
-public_path: "/static/uploads"
+upload_dir: src/data/uploads
+public_path: "/src/data/uploads"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
