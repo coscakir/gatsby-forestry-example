@@ -13,7 +13,7 @@ deneme content
 
 test 2222
 
-![jam](/static/uploads/maxresdefault.jpg "stack")
+![](/uploads/maxresdefault.jpg)
 
       var env = {
           siteId: "ofl4mrb77mi7hg",
