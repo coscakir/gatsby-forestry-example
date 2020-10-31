@@ -29,4 +29,3 @@ fields:
   default: now
 pages:
 - src/data/blog/jamstack-bros.md
-- src/data/blog/sa-das-sadasd-a.md
