@@ -7,6 +7,7 @@ export default function PostPreview({ post }) {
       style={{ padding: "1rem 2rem", background: "#eee", marginBottom: "1rem" }}
     >
       <h3>{post.title}</h3>
+      <i>{post.date}</i>
       <p>{post.excerpt}</p>
       <Link to={post.slug}>read more &rarr;</Link>
     </article>
