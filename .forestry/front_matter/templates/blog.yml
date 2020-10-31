@@ -29,4 +29,5 @@ fields:
   default: now
 pages:
 - src/data/blog/10-headless-cms-options-for-your-jamstack-website.md
+- src/data/blog/asfasf.mdx
 - src/data/blog/jamstack-bros.md
