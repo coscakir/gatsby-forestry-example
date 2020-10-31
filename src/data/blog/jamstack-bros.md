@@ -7,6 +7,6 @@ slug: jamstack-bros
 ---
 Next, link the frontmatter collection in `.forestry/settings.yml`. This adds a template in the Forestry **dashboard** that allows you to add new Blog posts with the configured fields in the CMS.
 
-![](../uploads/meeseekshq.png)
+![asfasf](uploads/meeseekshq.png)
 
 test
