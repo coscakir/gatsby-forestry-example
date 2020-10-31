@@ -2,6 +2,21 @@
 label: Blog
 hide_body: false
 fields:
+- name: draft
+  type: boolean
+  label: Draft
+  default: false
+- name: title
+  type: text
+  label: Title
+  description: ''
+  config:
+    required: true
+- name: slug
+  type: text
+  config:
+    required: true
+  label: Slug
 - name: date
   type: datetime
   label: Date
@@ -12,11 +27,5 @@ fields:
     time_format: 
     display_utc: false
   default: now
-- name: title
-  type: text
-  label: Title
-  description: ''
-  config:
-    required: true
 pages:
 - src/data/blog/jamstack-bros.md
