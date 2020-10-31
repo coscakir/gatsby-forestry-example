@@ -2,6 +2,7 @@
 date: 2020-10-29T13:11:48.000+00:00
 title: Deneme blog post
 slug: deneme-blog-post
+draft: false
 
 ---
 # Title
