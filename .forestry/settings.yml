@@ -11,7 +11,7 @@ sections:
   label: Posts
   create: documents
   match: "**/*"
-  new_doc_ext: ".mdx"
+  new_doc_ext: mdx
   templates:
   - blog
 upload_dir: static/uploads
