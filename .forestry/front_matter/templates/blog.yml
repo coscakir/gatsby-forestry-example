@@ -18,5 +18,3 @@ fields:
   description: ''
   config:
     required: true
-pages:
-- src/content/posts/deneme-blog-post.md
