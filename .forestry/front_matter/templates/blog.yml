@@ -18,3 +18,5 @@ fields:
   description: ''
   config:
     required: true
+pages:
+- src/data/blog/jamstack-bros.md
